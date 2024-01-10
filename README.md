@@ -23,5 +23,5 @@ https://www.askpython.com/python-modules/flask/flask-crud-application
 ## Contributing
 Fork away matey!
 
-## NO License
-No limtation on anything
+## License
+GNU General Public License v3
