@@ -24,7 +24,7 @@ https://www.askpython.com/python-modules/flask/flask-crud-application
 (be aware that "@app.before_first_request" is deprecated- use this instead: https://stackoverflow.com/questions/73570041/flask-deprecated-before-first-request-how-to-update
 
 ## Why?
-This is personal project to learn about various concepts used in the DevOps pipeline. This app is just to get somthing online that can be updated and monitored using standard practices for modern development and operations in IT.
+This is a personal project to learn about various concepts used in the DevOps pipeline. This app is just to get somthing online that can be updated and monitored using standard practices for modern development and operations in IT.
 I have created a GPT to help guide the project: https://chat.openai.com/g/g-ukSdQlG6p-devops-project-mentor
 
 ## Contributing
